@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add</string>
+    <string name="Reset">RESET</string>
+    <string name="Add">ADD</string>
+    <string name="num1hint">Num 1</string>
+    <string name="num2hint">Num 2</string>
+</resources>
